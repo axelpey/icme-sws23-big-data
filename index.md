@@ -18,27 +18,29 @@ This workshop will assume **very basic knowledge of programming in Python** for 
 
 ## Pre-workshop Checklist
 
-To join the workshop, you'll need a device with a recent web browser and two-way audio and video access to Zoom.
-
-No further tool is required to be installed beforehand.
+1. Please review this page to make sure you have everything you need for the workshop.
+2. Register for Piazza [by clicking here](https://piazza.com/stanford/summer2023/icmebigdata23)
+3. Fill out this [short pre-course survey](https://docs.google.com/forms/d/e/1FAIpQLSfr35W94YVemqapjWAzmKTnBX2JGnUVtDpnwexfMwsKvLryVQ/viewform?usp=sf_link) by Sunday midnight. Tell us your motivations, background and requests so we can adapt the workshop to you.
 
 If you don't have experience with Python, we recommend you to take the Introduction to Python workshop before this one!
 
 ## Schedule
+
+You can join us on Zoom [with this link.](https://stanford.zoom.us/j/91273362840?pwd=M3Q5YjRrbXBqT0RZcGFDbUJpbXdKZz09)
 
 #### July 26 (1:00 - 4 P.M. PDT) : Introduction and Data Storage Concepts
 
 1. Introduction to Big Data: Definition, Relevance, Challenges
 2. Real-world Applications of Big Data
 3. Overview of Different Types of Data Storage
-4. Hands-on Activities with Data Storage: SQL, NoSQL, Warehouses, and Data Lakes
+4. Hands-on use cases with Data Storage: SQL, NoSQL, Warehouses, and Data Lakes
 5. Q&A and Wrap Up
 
 #### July 27 (1:00 - 4 P.M. PDT) : Big Data Processing and Future Directions
 
 1. Apache Spark: Definition, Relevance, Use Cases and other tools
 2. Hands-on Activities: Basic Data Loading and Processing with PySpark
-3. Relating PySpark to more traditional data science tools
+3. Team activity with PySpark and basic data science tools.
 4. The Future of Big Data & how to use AI to improve your efficiency
 5. Closing Remarks, Q&A & recommendations for further learning
 
