@@ -26,7 +26,7 @@ If you don't have experience with Python, we recommend you to take the Introduct
 
 ## Schedule
 
-#### July 26 (1:00 - 4 P.M. PST) : Introduction and Data Storage Concepts
+#### July 26 (1:00 - 4 P.M. PDT) : Introduction and Data Storage Concepts
 
 1. Introduction to Big Data: Definition, Relevance, Challenges
 2. Real-world Applications of Big Data
@@ -34,7 +34,7 @@ If you don't have experience with Python, we recommend you to take the Introduct
 4. Hands-on Activities with Data Storage: SQL, NoSQL, Warehouses, and Data Lakes
 5. Q&A and Wrap Up
 
-#### July 27 (1:00 - 4 P.M. PST) : Big Data Processing and Future Directions
+#### July 27 (1:00 - 4 P.M. PDT) : Big Data Processing and Future Directions
 
 1. Apache Spark: Definition, Relevance, Use Cases and other tools
 2. Hands-on Activities: Basic Data Loading and Processing with PySpark
