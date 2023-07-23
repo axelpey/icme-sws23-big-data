@@ -19,7 +19,7 @@ This workshop will assume **very basic knowledge of programming in Python** for 
 ## Pre-workshop Checklist
 
 1. Please review this page to make sure you have everything you need for the workshop.
-2. Register for Piazza [by clicking here](https://piazza.com/stanford/summer2023/icmebigdata23)
+2. Register on Piazza by using the link we forwarded to you in a separate email.
 3. Fill out this [short pre-course survey](https://docs.google.com/forms/d/e/1FAIpQLSfr35W94YVemqapjWAzmKTnBX2JGnUVtDpnwexfMwsKvLryVQ/viewform?usp=sf_link) by Sunday midnight. Tell us your motivations, background and requests so we can adapt the workshop to you.
 
 If you don't have experience with Python, we recommend you to take the Introduction to Python workshop before this one!
